@@ -1,0 +1,12 @@
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\bin\Debug\netcoreapp2.0\DreamPlafonds.Web.deps.json
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\bin\Debug\netcoreapp2.0\DreamPlafonds.Web.runtimeconfig.json
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\bin\Debug\netcoreapp2.0\DreamPlafonds.Web.runtimeconfig.dev.json
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\bin\Debug\netcoreapp2.0\DreamPlafonds.Web.dll
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\bin\Debug\netcoreapp2.0\DreamPlafonds.Web.pdb
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\obj\Debug\netcoreapp2.0\DreamPlafonds.Web.csprojAssemblyReference.cache
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\obj\Debug\netcoreapp2.0\DreamPlafonds.Web.csproj.CoreCompileInputs.cache
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\obj\Debug\netcoreapp2.0\DreamPlafonds.Web.AssemblyInfoInputs.cache
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\obj\Debug\netcoreapp2.0\DreamPlafonds.Web.AssemblyInfo.cs
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\obj\Debug\netcoreapp2.0\DreamPlafonds.Web.dll
+D:\Dream Plafonds\DreamPlafonds.Web\DreamPlafonds.Web\obj\Debug\netcoreapp2.0\DreamPlafonds.Web.pdb
